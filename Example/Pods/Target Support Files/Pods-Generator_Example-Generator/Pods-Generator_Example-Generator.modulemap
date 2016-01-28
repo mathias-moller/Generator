@@ -1,0 +1,6 @@
+framework module Generator {
+  umbrella header "Pods-Generator_Example-Generator-umbrella.h"
+
+  export *
+  module * { export * }
+}

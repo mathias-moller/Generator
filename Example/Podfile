@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'Generator_Example', :exclusive => true do
+  pod 'Generator', :path => '../'
+end
+
+target 'Generator_Tests', :exclusive => true do
+  pod 'Generator', :path => '../'
+
+  
+end

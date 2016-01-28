@@ -1,0 +1,14 @@
+PODS:
+  - Generator (0.1.0)
+
+DEPENDENCIES:
+  - Generator (from `../`)
+
+EXTERNAL SOURCES:
+  Generator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Generator: 8bc7786e598b3b62d50af15a3162c4cb9d820641
+
+COCOAPODS: 0.37.2
